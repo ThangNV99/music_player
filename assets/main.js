@@ -27,32 +27,32 @@ const playList = $('.playlist')
         {
           name: "Blinding Lights",
           singer: "The Weeknd",
-          path: "./music/song1.mp3",
-          image: "./img/song1.png"
+          path: "https://malpha.123tokyo.xyz/get.php/a/8f/fHI8X4OXluQ.mp3?cid=MjcuNzIuMTAwLjE0MXxNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA0LjAuMC4wIFNhZmFyaS81MzcuMzZ8Vk4%3D&h=0IdzL-Y_Accq9kCmHji6FA&s=1661151723&n=The-Weeknd-Blinding-Lights-Official-Audio&dom=Iframe",
+          image: "https://upload.wikimedia.org/wikipedia/en/e/e6/The_Weeknd_-_Blinding_Lights.png"
         },
         {
           name: "Save your tears",
           singer: "The Weeknd",
-          path: "./music/song2.mp3",
-          image: "./img/song2.png"
+          path: "https://mgamma.123tokyo.xyz/get.php/5/0d/XXYlFuWEuKI.mp3?cid=MjcuNzIuMTAwLjE0MXxNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA0LjAuMC4wIFNhZmFyaS81MzcuMzZ8Vk4%3D&h=RHEmm9RLfiVrkIWPDR3DPQ&s=1661151810&n=The-Weeknd-Save-Your-Tears-Official-Music-Video&dom=Iframe",
+          image: "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2021/5/5/905681/MV-Save-Your-Tears.jpg"
         },
         {
           name: "Intentions",
           singer: "Justin Bieber",
-          path: "./music/song3.mp3",
-          image: "./img/song3.png"
+          path: "https://malpha.123tokyo.xyz/get.php/c/3c/3AyMjyHu1bA.mp3?cid=MjcuNzIuMTAwLjE0MXxNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA0LjAuMC4wIFNhZmFyaS81MzcuMzZ8Vk4%3D&h=AV7t4cs7yFpE99Oc83Ol8g&s=1661151841&n=Justin-Bieber-Intentions-Official-Video-Short-Version-ft-Quavo&dom=Iframe",
+          image: "https://i.pinimg.com/originals/b1/3d/13/b13d1360e594d0c0928dcf5248a7c0b0.jpg"
         },
         {
           name: "Titanium",
           singer: "Sia ",
-          path: "./music/song4.mp3",
-          image: "./img/song4.png"
+          path: "https://malpha.123tokyo.xyz/get.php/9/d3/JRfuAukYTKg.mp3?cid=MjcuNzIuMTAwLjE0MXxNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA0LjAuMC4wIFNhZmFyaS81MzcuMzZ8Vk4%3D&h=7k4kpOesNZn15-DIranKjQ&s=1661151885&n=David-Guetta-Titanium-ft-Sia-Official-Video&dom=Iframe",
+          image: "https://i.pinimg.com/originals/96/65/b3/9665b32544b233f01a471cf0dac50195.jpg"
         },
         {
           name: "Let Her Go",
           singer: "Passenger  ",
-          path: "./music/song5.mp3",
-          image: "./img/song5.png"
+          path: "https://mgamma.123tokyo.xyz/get.php/3/9c/RBumgq5yVrA.mp3?cid=MjcuNzIuMTAwLjE0MXxNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA0LjAuMC4wIFNhZmFyaS81MzcuMzZ8Vk4%3D&h=_J1-i13kaEB7tupOgpEgVA&s=1661151919&n=Passenger-Let-Her-Go-Official-Video&dom=Iframe",
+          image: "https://nhom40.com/wp-content/uploads/2018/08/let-her-go-1.jpg"
         }
       ],
     setConfig: function(key, value) {
